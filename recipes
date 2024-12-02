@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Công thức Nấu ăn</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Liên kết đến tệp CSS -->
+</head>
+<body>
+    <header>
+        <h1>Công thức Nấu ăn</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang Chủ</a></li>
+                <li><a href="recipes.html">Công thức</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Công thức 1: Bánh mì nướng</h2>
+            <h3>Nguyên liệu:</h3>
+            <ul>
+                <li>Bánh mì</li>
+                <li>Butter</li>
+                <li>Mứt</li>
+            </ul>
+            <h3>Cách làm:</h3>
+            <p>Thoa bơ lên bánh mì và nướng cho đến khi vàng.</p>
+        </section>
+
+        <section>
+            <h2>Công thức 2: Salad trái cây</h2>
+            <h3>Nguyên liệu:</h3>
+            <ul>
+                <li>Táo</li>
+                <li>Cam</li>
+                <li>Chuối</li>
+            </ul>
+            <h3>Cách làm:</h3>
+            <p>Gọt vỏ trái cây và cắt nhỏ, sau đó trộn đều.</p>
+        </section>
+        
+        <!-- Bạn có thể thêm nhiều công thức khác ở đây -->
+    </main>
+    <footer>
+        <p>Bản quyền © 2023</p>
+    </footer>
+</body>
+</html>
